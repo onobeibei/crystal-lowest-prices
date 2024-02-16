@@ -87,3 +87,10 @@ footer {
     margin-top: 20px;
     color: #FFC0CB;
 }
+
+@media screen and (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
+        /* 每行至少显示两个卡片 */
+    }
+}
