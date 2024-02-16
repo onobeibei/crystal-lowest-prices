@@ -12,7 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "20000000166",
         "20000000167",
         "20000000164",
-        "20000000161"
+        "20000000161",
+        "20000000168"
     ];
 
     const clearGrid = () => {
