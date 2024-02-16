@@ -1,3 +1,4 @@
+/* Global Styles */
 body,
 button {
     font-family: 'Arial Rounded MT Bold', sans-serif;
@@ -11,6 +12,7 @@ a {
     text-decoration: none;
 }
 
+/* Grid Styles */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -71,6 +73,7 @@ a {
     margin: 5px 0;
 }
 
+/* Refresh Icon */
 .refresh-icon {
     font-size: 24px;
     color: #007bff;
@@ -82,19 +85,21 @@ a {
     color: #0056b3;
 }
 
+/* Footer Styles */
 footer {
     text-align: center;
     margin-top: 20px;
     color: #FFC0CB;
 }
 
+/* Media Queries */
 @media screen and (max-width: 768px) {
     .grid-container {
         grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
-        /* 每行至少显示两个卡片 */
     }
 }
 
+/* Social Links */
 .footer-links {
     text-align: center;
 }
