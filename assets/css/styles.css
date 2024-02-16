@@ -114,3 +114,10 @@ footer {
 .social-link:hover {
     color: #FF69B4;
 }
+
+/* Last Traded Price */
+.latest-traded-price {
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+}
