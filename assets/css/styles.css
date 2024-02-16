@@ -12,6 +12,13 @@ a {
     text-decoration: none;
 }
 
+p {
+    text-align: center;
+    font-size: 10px;
+    color: #666;
+    margin-top: 5px;
+}
+
 /* Grid Styles */
 .grid-container {
     display: grid;
