@@ -94,3 +94,18 @@ footer {
         /* 每行至少显示两个卡片 */
     }
 }
+
+.footer-links {
+    text-align: center;
+}
+
+.social-link {
+    color: #FFC0CB;
+    text-decoration: none;
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.social-link:hover {
+    color: #FF69B4;
+}
