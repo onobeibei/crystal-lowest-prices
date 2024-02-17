@@ -128,3 +128,16 @@ footer {
     color: #666;
     margin-top: 5px;
 }
+
+/* Loading Message */
+.loading-message {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    background-color: #fff;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    display: none;
+}
