@@ -83,13 +83,13 @@ p {
 /* Refresh Icon */
 .refresh-icon {
     font-size: 24px;
-    color: #007bff;
+    color: #FFC0CB;
     cursor: pointer;
     margin-left: 10px;
 }
 
 .refresh-icon:hover {
-    color: #0056b3;
+    color: #FF69B4;
 }
 
 /* Footer Styles */
